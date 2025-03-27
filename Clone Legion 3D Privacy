@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy – Clone Legion 3D</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2a2a2a;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Clone Legion 3D</h1>
+  <p><strong>Last updated:</strong> March 27, 2025</p>
+  <p><strong>Developer:</strong> Oimyajo</p>
+  <p><strong>Contact email:</strong> CloneLegion3D@outlook.com</p>
+  <p><strong>Location:</strong> Spain</p>
+
+  <h2>1. Introduction</h2>
+  <p>Thank you for playing <strong>Clone Legion 3D</strong>. This privacy policy explains how we handle your data. Spoiler: we currently don’t collect any personal information, but we might in the future if features like ads or analytics are added.</p>
+
+  <h2>2. Data Collection</h2>
+  <p>As of now, <strong>Clone Legion 3D</strong> does <strong>not collect any personal information</strong>. We do not access your name, email, location, or any other personal data.</p>
+  <p>In future updates, we may introduce:</p>
+  <ul>
+    <li>Advertising (e.g. AdMob or similar platforms)</li>
+    <li>Analytics (e.g. Google Firebase)</li>
+    <li>In-app purchases</li>
+  </ul>
+  <p>If any data collection features are added, this policy will be updated accordingly and transparently.</p>
+
+  <h2>3. Data Sharing</h2>
+  <p>We do not share any information with third parties, because we don’t collect any.</p>
+
+  <h2>4. User Rights</h2>
+  <p>If we collect data in the future, users will have the right to:</p>
+  <ul>
+    <li>Know what data is collected</li>
+    <li>Access, modify, or delete their data</li>
+  </ul>
+
+  <h2>5. Policy Changes</h2>
+  <p>Any changes to this policy will be posted at this URL. We will notify you in the app if major updates are made.</p>
+
+  <h2>6. Contact</h2>
+  <p>If you have any questions about this policy, feel free to contact us:</p>
+  <p><strong>Email:</strong> CloneLegion3D@outlook.com</p>
+</body>
+</html>
